@@ -1,8 +1,8 @@
 # Naan_Mudhalvan_Ashwanthjee_5004_GCE
 Naan Mudhalvan project
 
-Name : ASHWANTHJEE A R 
-Reg no. :731121205004
+Name : Sanjay M
+Reg no. :731121205034
 college : Government College of Engineering,Erode.
 
 To login in project:
